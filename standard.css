@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./standard/IT-Lab-Standard-Ultralight.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Ultralight.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Ultralight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./standard/IT-Lab-Standard-Thin.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Thin.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./standard/IT-Lab-Standard-Light.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Light.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./standard/IT-Lab-Standard-Regular.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Regular.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./standard/IT-Lab-Standard-Medium.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Medium.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./standard/IT-Lab-Standard-Semibold.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Semibold.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./standard/IT-Lab-Standard-Bold.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Bold.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 800;
+  src: url('./standard/IT-Lab-Standard-Heavy.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Heavy.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IT Lab Standard';
+  font-style: normal;
+  font-weight: 900;
+  src: url('./standard/IT-Lab-Standard-Black.woff2') format('woff2'),
+    url('./standard/IT-Lab-Standard-Black.woff') format('woff'),
+    url('./standard/IT-Lab-Standard-Black.ttf') format('truetype');
+}

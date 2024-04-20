@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./serif/IT-Lab-Serif-Regular.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Regular.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 500;
+    src: url('./serif/IT-Lab-Serif-Medium.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Medium.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 600;
+    src: url('./serif/IT-Lab-Serif-Semibold.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Semibold.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./serif/IT-Lab-Serif-Bold.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Bold.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 800;
+    src: url('./serif/IT-Lab-Serif-Heavy.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Heavy.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IT Lab Serif';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./serif/IT-Lab-Serif-Black.woff2') format('woff2'),
+        url('./serif/IT-Lab-Serif-Black.woff') format('woff'),
+        url('./serif/IT-Lab-Serif-Black.ttf') format('truetype');
+}
